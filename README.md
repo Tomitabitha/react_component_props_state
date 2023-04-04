@@ -5,6 +5,7 @@
 * GoogleHomepage
 
  * Header
+ 
      -NavList
      
      -AppLauncher
@@ -12,6 +13,7 @@
      -ProfilePicture
 
  * MainContent
+ 
      -Button
      
      -LanguageLinks
