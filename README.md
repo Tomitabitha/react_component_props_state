@@ -6,13 +6,17 @@
 
  * Header
      -NavList
+     
      -AppLauncher
+     
      -ProfilePicture
 
- *MainContent
+ * MainContent
      -Button
+     
      -LanguageLinks
 
-*SearchBox
-*Footer
+* SearchBox
+* Footer
+
      -FooterList
