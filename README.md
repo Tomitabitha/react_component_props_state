@@ -5,12 +5,12 @@
 * GoogleHomepage
 
 * Header
-- NavList
-- AppLauncher
-- ProfilePicture
+i NavList
+ii AppLauncher
+iii ProfilePicture
 * MainContent
-- Button
-- LanguageLinks
+i Button
+ii LanguageLinks
 * SearchBox
 * Footer
-- FooterList
+ i FooterList
