@@ -4,15 +4,15 @@
 
 * GoogleHomepage
 
- Header
-* NavList
-* AppLauncher
-* ProfilePicture
+ * Header
+     -NavList
+     -AppLauncher
+     -ProfilePicture
 
- MainContent
-* Button
-* LanguageLinks
+ *MainContent
+     -Button
+     -LanguageLinks
 
-SearchBox
-Footer
- * FooterList
+*SearchBox
+*Footer
+     -FooterList
